@@ -73,7 +73,7 @@
     <PackageReference Include="Microsoft.Owin.Security.Twitter" Version="3.0.1" />
     <PackageReference Include="Microsoft.Web.Infrastructure" Version="1.0.0.0" />
     <PackageReference Include="Modernizr" Version="2.6.2" />
-    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="Owin" Version="1.0" />
     <PackageReference Include="Respond" Version="1.2.0" />
     <PackageReference Include="WebGrease" Version="1.5.2" />
