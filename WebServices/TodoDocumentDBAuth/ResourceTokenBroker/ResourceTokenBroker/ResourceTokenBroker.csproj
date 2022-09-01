@@ -62,10 +62,10 @@
     <PackageReference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform" Version="1.0.0" />
     <PackageReference Include="Microsoft.jQuery.Unobtrusive.Validation" Version="3.2.3" />
     <PackageReference Include="Microsoft.Net.Compilers" Version="1.0.0" />
-    <PackageReference Include="Microsoft.Owin" Version="3.0.1" />
+    <PackageReference Include="Microsoft.Owin" Version="4.2.2" />
     <PackageReference Include="Microsoft.Owin.Host.SystemWeb" Version="3.0.1" />
     <PackageReference Include="Microsoft.Owin.Security" Version="3.0.1" />
-    <PackageReference Include="Microsoft.Owin.Security.Cookies" Version="3.0.1" />
+    <PackageReference Include="Microsoft.Owin.Security.Cookies" Version="4.2.2" />
     <PackageReference Include="Microsoft.Owin.Security.Facebook" Version="3.0.1" />
     <PackageReference Include="Microsoft.Owin.Security.Google" Version="3.0.1" />
     <PackageReference Include="Microsoft.Owin.Security.MicrosoftAccount" Version="3.0.1" />
